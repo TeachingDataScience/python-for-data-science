@@ -32,18 +32,18 @@ Generally, we'll all be working on the same material together, so that we can ma
 
 Part A
 
-* 01 Introduction to Python for Data Science
-* 02 iPython and Python Refresher
-* 03 NumPy Overview
-* 04 Pandas
+* Introduction to Python for Data Science
+* iPython and Python Refresher
+* NumPy Overview
+* Pandas
  
 Part B
 
-* 05 Exploring Data in Pandas
+* Exploring Data in Pandas
  
 Part C
 
-* 06 Machine Learning with Scikit-Learn
+* Machine Learning with Scikit-Learn
 
 Part D
 

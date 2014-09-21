@@ -28,4 +28,23 @@ Generally, we'll all be working on the same material together, so that we can ma
 * Split into pairs of ['intermediate','advanced'] with the advanced coalescing their knowledge by communicating it clearly to their partners.
 * Split the group into groups with an 'advanced' and an 'intermediate' group (there's no beginners in this class)
 
+#### Outline
 
+Part A
+
+* 01 Introduction to Python for Data Science
+* 02 iPython and Python Refresher
+* 03 NumPy Overview
+* 04 Pandas
+ 
+Part B
+
+* 05 Exploring Data in Pandas
+ 
+Part C
+
+* 06 Machine Learning with Scikit-Learn
+
+Part D
+
+* Developing a Tutorial

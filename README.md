@@ -2,6 +2,7 @@
 
 #### [Links to iPython Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/python-for-data-science/tree/master/)
 
+Follow the link above to view or download and run the notebooks in this repository
 
 #### Organization
 

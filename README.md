@@ -49,3 +49,7 @@ Part C
 Part D
 
 * Developing a Tutorial
+
+
+
+*Repository also linked from bit.ly/pythonfordatascience*

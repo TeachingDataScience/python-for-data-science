@@ -28,3 +28,4 @@ Generally, we'll all be working on the same material together, so that we can ma
 
 #### [Links to iPython Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/python-for-data-science/tree/master/)
 
+The iPython Notebooks can be downloaded (or viewed) at the link above.

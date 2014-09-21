@@ -1,5 +1,8 @@
 # Intro to Python for Data Science
 
+#### [Links to iPython Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/python-for-data-science/tree/master/)
+
+
 #### Organization
 
 The course will be organized into four sections: three basic learning sections and one exploratory section. Each section will follow the following format:
@@ -26,6 +29,3 @@ Generally, we'll all be working on the same material together, so that we can ma
 * Split the group into groups with an 'advanced' and an 'intermediate' group (there's no beginners in this class)
 
 
-#### [Links to iPython Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/python-for-data-science/tree/master/)
-
-The iPython Notebooks can be downloaded (or viewed) at the link above.

@@ -1,55 +1,24 @@
-# Intro to Python for Data Science
-
-#### [Links to iPython Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/python-for-data-science/tree/master/)
-
-Follow the link above to view or download and run the notebooks in this repository
-
-#### Organization
-
-The course will be organized into four sections: three basic learning sections and one exploratory section. Each section will follow the following format:
-
-* **Realize.** Realize the importance of the topics at hand. Collaborative discussion and introduction to concepts.  Why is this material important?  What are our short-term and long-term goals with this material?
-* **Apply.** Apply the techniques.  Group and independent work experimenting with the concepts.  
-* **Debrief.**  Debrief and discussion showcasing results and discussing the concepts, challenges, and ways to move forward.
-
-#### Broad Topics
-
-* A: Python, iPython and Pandas
-* B: Exploring Data with Pandas
-* C: Machine Learning with SK-Learn
-* D: Your introduction to Data Science with Python
-
-#### 4 Hours Tailored to the Individual Group (and its Individuals)
-
-Even in these few notebooks, there is enough material for a week's worth of practice and learning.
-
-We'll be learning about each other's goals and technical backgrounds and adjusting our focus for each section.
-
-Generally, we'll all be working on the same material together, so that we can maximally learn from each other.  However, depending on the background of the class, we may:
-* Split into pairs of ['intermediate','advanced'] with the advanced coalescing their knowledge by communicating it clearly to their partners.
-* Split the group into groups with an 'advanced' and an 'intermediate' group (there's no beginners in this class)
-
-#### Outline
-
-Part A
-
-* Introduction to Python for Data Science
-* iPython and Python Refresher
-* NumPy Overview
-* Pandas
- 
-Part B
-
-* Exploring Data in Pandas
- 
-Part C
-
-* Machine Learning with Scikit-Learn
-
-Part D
-
-* Developing a Tutorial
-
+# Python/Pandas Workshop
 
 
 *Repository also linked from bit.ly/pythonfordatascience*
+
+#### [Links to iPython Notebooks](http://nbviewer.ipython.org/github/TeachingDataScience/python-for-data-science/tree/master/)
+
+11:00am
+
+* Introductions
+* Strings, Integers, Floats
+* Functions, Objects, Classes
+* Functional Programming vs OOP
+
+1:00 to 1:30pm - Lunch
+
+* Discussion - Data Handling
+* Split/Apply/Combine THeory
+* Pandas - read csv, describe, apply, aggregate
+* What is data exploration
+* 1 and 2 dimensional visualization
+* Independent work on Data Sets
+* Presentations
+* Wrap Up
